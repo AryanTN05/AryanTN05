@@ -11,7 +11,7 @@
 
 - 💬 Ask me about *Anything!*
 
-- 📫 How to reach me *ashishgidijala@gmail.com*
+- 📫 How to reach me *aryansree2003@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
