@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryantn05" alt="aryantn05" /></a> </p>
 
-- 🌱 I’m currently learning *Web Development and AI ML*
+- 🌱 I have worked on Web dev and  I’m currently learning *AI ML*
 
 - 👨‍💻 All of my projects are available at [https://github.com/aryantn05](https://github.com/aryantn05)
 
