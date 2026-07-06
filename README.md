@@ -54,23 +54,6 @@
 **Voice AI:** Vapi · Retell · Bland.ai · faster-whisper · Coqui XTTS
 **Vector DB / RAG:** ChromaDB · FlashRank
 **Frontend/Serving:** Streamlit · FastAPI
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryantn05&show_icons=true&locale=en&layout=compact" alt="aryantn05" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryantn05&show_icons=true&locale=en" alt="aryantn05" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryantn05&" alt="aryantn05" />
-</p>
-
 ---
 
 ### 🌐 Connect with Me
